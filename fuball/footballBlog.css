@@ -1,0 +1,125 @@
+.jumbotron {
+	background-image: url("https://sunnykobecook.files.wordpress.com/2011/03/nfl.gif");
+	background-size: cover;
+	color: black;
+}
+
+.jumbotron p{
+	background-color: rgba(255, 255, 255, 0.75);
+	text-align: center;
+	border-radius: 25px;
+}
+
+.jumbotron h1{
+	background-color: rgba(0, 0, 0, 0.75);
+	border-radius: 25px;
+}
+
+.navbar-inverse .navbar-nav>li>a{
+	color: white;
+}
+
+.navbar-inverse .navbar-brand{
+	color: white;
+}
+
+body{
+	padding-top: 70px;
+	font-family: 'Source Sans Pro', sans-serif;
+	padding-bottom: 30px;
+}
+
+.quote{
+	border-left: 5px solid #ff8000;
+	padding-left: 5px;
+}
+
+.last{
+	border-right: 5px solid #ff8000;
+	padding-right: 5px;	
+}
+
+.date{
+	color: #3498db;
+	text-transform: uppercase;
+	letter-spacing: 0.2rem;
+}
+
+.date2{
+	color: #3498db;
+	text-transform: uppercase;
+	letter-spacing: 0.2rem;
+	font-size: 2.0rem;	
+}
+
+.post{
+	margin-bottom: 20px;
+}
+
+h2{
+	color: #2c3e50;
+	font-size: 2.0rem;
+}
+
+h1{
+	color: #ff8000;
+	text-align: center;
+	margin-bottom: 20px;
+}
+
+.border{
+	border: 15px solid black;
+	padding: 20px;
+	margin: 20px auto;
+	border-radius: 25px;
+}
+
+.border2{
+	border: 3px solid #ff8000;
+	padding: 20px;
+	margin: 20px auto;
+	border-radius: 25px;	
+}
+
+.center{
+	text-align: center;
+	border-left: 5px solid #ff8000;
+	border-right: 5px solid #ff8000;
+}
+
+img{
+	max-width:620px;
+	height:390px;
+}
+
+.orange{
+	color: #ff8000;
+}
+
+.footer{
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	background-color: rgb(0, 0, 0, 0.75);
+	color: white;
+	text-align: center;
+}
+
+.nav>li {
+    position: relative;
+    display: block;
+}
+.nav>li a:hover:not(.active) 
+{   
+   	background-color: rgba(255, 255, 255, 0.4);
+}
+.active 
+{
+   	 background-color: #ff8000;
+}
+
+h4{
+	text-align: center;
+	font-style: italic;
+}
